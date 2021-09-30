@@ -3,6 +3,7 @@ University project resulting in a gif of Panama's covid cases behavior by distri
 
 Data obtained from: 
 https://app.flourish.studio/@victoria.jorge
+
 https://app.flourish.studio/visualisation/5490996/
 
 # Result
